@@ -1,4 +1,4 @@
-
+//WAP to find the duplicates present in an array.
 package assignment;
 
 import java.util.*;
